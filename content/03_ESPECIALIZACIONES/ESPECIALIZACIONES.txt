@@ -1,0 +1,59 @@
+Fe: Fe pública.
+
+----
+Fetext: Interviniendo en la asesoría y formalización de todo acto inherente a sociedades mercantiles; asegurando la correcta instrumentación de operaciones y dando fe de actos o contratos de naturaleza mercantil.
+
+----
+Val: Valuación
+
+----
+Valtext: Valorar cualquier tipo de bien que se encuentre en el comercio, tales como: acciones, activos, equipo y maquinaria, joyas, obras de arte, patentes y marcas, negocios en marcha, inmuebles, entre otros bienes.
+
+----
+Soc: Sociedades.
+
+----
+Soctext: Civiles, mercantiles, asociaciones y fundaciones; desde su constitución, asambleas, fusiones y adquisiciones, alianzas estratégicas, hasta su liquidación, concursos mercantiles y quiebras.
+
+----
+Pla: Planeación Fiscal y Patrimonial.
+
+----
+Platext: Se analiza cada caso y se plantea una estructura específica a fin de generar un beneficio palpable que resulte de una sana planeación fiscal y patrimonial.
+
+----
+Pro: Propiedad Intelectual.
+
+----
+Protext: Protegiendo toda creación del intelecto humano de naturaleza artística o industrial.
+
+----
+Inm: Inmobiliario.
+
+----
+Inmtext: Asegurando la formalización de transacciones individuales hasta desarrollos turísticos o de vivienda masiva.
+
+----
+Fin: Financiero, Bancario y Bursátil.
+
+----
+Fintext: Desde la negociación, redacción e instrumentación de contratos de crédito así como en la emisión de acciones y/u obligaciones.
+
+----
+Inv: Inversión Extranjera.
+
+----
+Invtext: Destructurando y protegiendo a las inversiones extranjeras que llegan a México bajo el marco jurídico más adecuado, además de apoyar para que su inducción al mercado nacional sea lo más sencillo posible.
+
+----
+civ: Civil, Mercantil y Amparo.
+
+----
+civtext: Litigando tanto asuntos civiles como mercantiles en todas las instancias judiciales.
+
+----
+lab: Laboral / Migratorio.
+
+----
+labtext: Dando soporte a las empresas y personas en sus relaciones laborales, así como tramitando autorizaciones en materia migratoria.
+
